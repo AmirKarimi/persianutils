@@ -18,7 +18,7 @@ libraryDependencies ++= Seq(
 <dependencies>
     <dependency>
         <groupId>com.bahmanm</groupId>
-        <artifactId>persianutils_2.10</artifactId>
+        <artifactId>persianutils_2.11</artifactId>
         <version>1.0</version>
     </dependency>
 </dependencies>
@@ -34,7 +34,7 @@ This is a short review of what you will find in _persianutils_:
 
 #### 3.1.1 Scala ####
 
-_NOTE: persianutils works with Scala 2.10.x series._
+_NOTE: persianutils works with Scala 2.11.x series._
 
 ```scala
 import com.bahmanm.persianutils.DateConverter._

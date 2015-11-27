@@ -1,8 +1,8 @@
 name := "PersianUtils"
 
-version := "1.0"
+version := "1.1"
 
-crossScalaVersions := Seq("2.10.0", "2.11.2")
+scalaVersion := "2.11.7"
 
 organization := "com.bahmanm"
 
