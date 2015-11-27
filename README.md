@@ -4,7 +4,13 @@ A collection of utilities for Scala/Java developers who are targeting Persian (F
 
 ## 2 Adding To Your Project ##
 
-### 2.1 SBT ###
+### 2.1 Build ###
+
+```
+sbt publish-local
+```
+
+### 2.2 SBT ###
 
 ```scala
 libraryDependencies ++= Seq(
@@ -12,7 +18,7 @@ libraryDependencies ++= Seq(
 )
 ```
 
-### 2.2 Maven ###
+### 2.3 Maven ###
 
 ```xml
 <dependencies>
